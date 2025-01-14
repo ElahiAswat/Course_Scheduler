@@ -1,7 +1,7 @@
 # Course-Scheduler
 Course Scheduler: A web application to upload an image and schedule courses. Generate calendar events with alerts. Built with HTML, CSS, JavaScript, and Tesseract.js.
 
-![Autoplay Demo](courseschedule1.gif)
+                                                                               ![Autoplay Demo](courseschedule1.gif)
 
 ## Overview
 
